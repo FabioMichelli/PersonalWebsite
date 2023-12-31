@@ -1,0 +1,30 @@
+html{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-top:30px;
+    text-align:justify;
+    text-justify:inter-word;
+
+}
+
+#welcome-section{
+    background-color:whitesmoke;
+    height:100vh;
+}
+
+#projects{
+    background-color:salmon;
+}
+@media screen and (max-width:800px) {
+    main {
+    background-color:yellow;
+    }
+}
+
+#navbar{
+    position:fixed;
+    top:0;
+}
+
+#profile-link{
+
+}
